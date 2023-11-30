@@ -303,16 +303,6 @@ img {
 }
 
 /*=============== SPONSOR ===============*/
-.sponsor__img {
-  width: 90px;
-}
-
-.sponsor__container {
-  grid-template-columns: repeat(auto-fit, minmax(110px, 1fr));
-  row-gap: 5rem;
-  justify-items: center;
-  align-items: center;
-}
 
 /*=============== SPECS ===============*/
 .specs__container {
@@ -754,9 +744,7 @@ img {
   .home__description {
     padding-right: 5rem;
   }
-  .sponsor__img {
-    width: 100px;
-  }
+  
   .discount__img {
     width: 350px;
   }
